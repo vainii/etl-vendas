@@ -1,6 +1,6 @@
 Pipeline ETL com Pandas
 
-Este projeto é uma pipeline simples de ETL (Extract, Transform, Load) desenvolvida em Python utilizando **Pandas** e **Pathlib**. O objetivo é simular um fluxo básico de processamento de dados, desde a leitura de arquivos até a transformação e exportação dos dados tratados.
+Este projeto é uma pipeline de ETL (Extract, Transform, Load) desenvolvida em Python utilizando **Pandas** e **Pathlib**. O objetivo é simular um fluxo básico de processamento de dados, desde a leitura de arquivos até a transformação e exportação dos dados tratados.
 
 Tecnologias utilizadas
 
